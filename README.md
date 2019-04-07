@@ -1,2 +1,2 @@
 # ShelfEasy
-Great access to making easy decisions on Cabinetry and shelves.
+Great access to making easy decisions on cabinetry and shelves.
